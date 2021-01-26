@@ -1,8 +1,8 @@
-# alx-zero_day
+# alx-zero_day/0x01-emacs
 
-## Description
+## Description⚙︎
 
-This is a very Beginning of my course at ALX and Holberton's courses.
+This is a very Beginning of Emacs courses.
 
 ## Tasks included 🔧
 
@@ -11,7 +11,7 @@ This is a very Beginning of my course at ALX and Holberton's courses.
 
 ## NB: 
 
-All files that are in the 0x01-emacs folder , if you assumed well they have a `~` at the end of the filename evethough i've added this in the .gitignore.
+All files that are in this folder , if you assumed well they have a `~` at the end of the filename evethough i've added this in the .gitignore.
 the reason for this is that i've comitted everything before adding this .gitignore.
 
 Incase you are cloning this repo please run `git rm -r --cached` to remove cashed files.
@@ -21,3 +21,6 @@ Incase you are cloning this repo please run `git rm -r --cached` to remove cashe
 Clone the repository on your local computer using the command below
 
 > `git clone https://github.com/pextech/alx-zero_day.git`
+
+
+
