@@ -2,4 +2,4 @@
 
 ## Description
 
-This is a very Beginning of my course at ALX and Holberton's courses.
+This is a very Beginning of Git courses.
